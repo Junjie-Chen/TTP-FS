@@ -1,0 +1,44 @@
+nav .brand-logo {
+  padding-left: 15px;
+}
+
+.nav-secondary {
+  background-color: unset;
+  -webkit-box-shadow: unset;
+  box-shadow: unset;
+}
+
+.nav-secondary span {
+  color: #039be5;
+}
+
+.nav-secondary ul a {
+  color: #039be5;
+}
+
+.nav-secondary ul a:hover {
+  background-color: unset;
+  text-decoration: underline;
+}
+
+.errors {
+  color: red;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.heading {
+  padding-bottom: 20px;
+}
+
+.weak {
+  color: red;
+}
+
+.normal {
+  color: grey;
+}
+
+.strong {
+  color: green;
+}
